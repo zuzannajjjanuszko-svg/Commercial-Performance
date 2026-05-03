@@ -1,0 +1,61 @@
+client_id,client_name,region,industry_segment,onboarded_date
+1,Client_1,Nordics,Corporate,2021-08-17
+2,Client_2,France,Hedge Fund,2021-02-21
+3,Client_3,Iberia,Asset Manager,2022-07-18
+4,Client_4,France,Hedge Fund,2022-05-17
+5,Client_5,France,Corporate,2022-04-03
+6,Client_6,UK,Corporate,2021-10-13
+7,Client_7,Iberia,Bank,2021-07-29
+8,Client_8,Iberia,Asset Manager,2021-06-28
+9,Client_9,Iberia,Hedge Fund,2023-05-15
+10,Client_10,France,Bank,2021-03-07
+11,Client_11,Nordics,Hedge Fund,2021-03-03
+12,Client_12,Iberia,Hedge Fund,2021-07-11
+13,Client_13,Italy,Bank,2022-03-24
+14,Client_14,France,Bank,2022-04-22
+15,Client_15,UK,Bank,2023-11-01
+16,Client_16,Nordics,Bank,2021-02-24
+17,Client_17,Italy,Bank,2022-02-12
+18,Client_18,Italy,Hedge Fund,2023-05-10
+19,Client_19,UK,Bank,2022-03-28
+20,Client_20,Nordics,Asset Manager,2023-07-09
+21,Client_21,France,Corporate,2022-07-24
+22,Client_22,DACH,Bank,2021-01-14
+23,Client_23,Nordics,Bank,2021-11-23
+24,Client_24,UK,Hedge Fund,2023-05-16
+25,Client_25,Italy,Bank,2022-11-28
+26,Client_26,France,Bank,2022-07-24
+27,Client_27,Nordics,Bank,2021-11-15
+28,Client_28,DACH,Hedge Fund,2022-03-17
+29,Client_29,DACH,Bank,2022-11-21
+30,Client_30,Iberia,Corporate,2021-07-29
+31,Client_31,Iberia,Hedge Fund,2021-07-09
+32,Client_32,UK,Corporate,2023-02-18
+33,Client_33,Nordics,Hedge Fund,2021-07-18
+34,Client_34,Nordics,Bank,2023-01-06
+35,Client_35,Italy,Corporate,2022-12-06
+36,Client_36,Italy,Hedge Fund,2022-06-26
+37,Client_37,Italy,Asset Manager,2021-03-30
+38,Client_38,Iberia,Bank,2023-07-30
+39,Client_39,Nordics,Hedge Fund,2021-09-13
+40,Client_40,Nordics,Asset Manager,2023-02-15
+41,Client_41,DACH,Hedge Fund,2021-06-11
+42,Client_42,Iberia,Asset Manager,2022-08-24
+43,Client_43,France,Bank,2023-01-11
+44,Client_44,Iberia,Corporate,2022-01-29
+45,Client_45,France,Asset Manager,2021-05-23
+46,Client_46,DACH,Hedge Fund,2021-04-04
+47,Client_47,UK,Bank,2022-04-12
+48,Client_48,Nordics,Asset Manager,2022-08-16
+49,Client_49,DACH,Hedge Fund,2021-06-13
+50,Client_50,Nordics,Hedge Fund,2022-04-22
+51,Client_51,Italy,Hedge Fund,2021-07-26
+52,Client_52,UK,Asset Manager,2023-02-18
+53,Client_53,UK,Asset Manager,2022-07-24
+54,Client_54,DACH,Asset Manager,2023-07-18
+55,Client_55,UK,Corporate,2023-01-18
+56,Client_56,France,Asset Manager,2021-11-30
+57,Client_57,UK,Asset Manager,2023-01-29
+58,Client_58,Nordics,Asset Manager,2022-12-29
+59,Client_59,Nordics,Corporate,2022-03-06
+60,Client_60,Nordics,Asset Manager,2022-07-01

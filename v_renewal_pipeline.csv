@@ -1,0 +1,56 @@
+contract_id,client_name,product_name,contracted_monthly_revenue,end_date,sales_rep,renewal_status
+2,Client_11,Reference Data Feed,2850.0,2024-02-09,MJ,Expired
+4,Client_14,Reference Data Feed,3000.0,2025-02-21,LP,Expired
+8,Client_44,Reference Data Feed,2400.0,2024-10-12,LP,Expired
+9,Client_28,Market Data Terminal,1050.0,2023-12-12,MJ,Expired
+11,Client_35,Index Benchmarks,4750.0,2026-05-08,LP,At Risk
+13,Client_6,Reference Data Feed,2400.0,2024-05-15,ST,Expired
+14,Client_36,Market Data Terminal,1050.0,2025-05-29,AK,Expired
+22,Client_12,Market Data Terminal,1350.0,2023-01-31,MJ,Expired
+23,Client_4,Reference Data Feed,2250.0,2024-05-22,AK,Expired
+24,Client_27,Reference Data Feed,3000.0,2023-05-03,ST,Expired
+26,Client_10,Market Data Terminal,1275.0,2024-02-09,LP,Expired
+30,Client_60,Market Data Terminal,1425.0,2025-02-06,LP,Expired
+33,Client_24,Market Data Terminal,1275.0,2025-10-30,MJ,Expired
+34,Client_43,Index Benchmarks,3750.0,2024-09-26,MJ,Expired
+38,Client_11,Reference Data Feed,3000.0,2024-07-06,AK,Expired
+40,Client_24,Index Benchmarks,4250.0,2025-01-05,LP,Expired
+41,Client_50,Reference Data Feed,2250.0,2024-04-22,AK,Expired
+44,Client_55,Reference Data Feed,2850.0,2025-08-13,AK,Expired
+50,Client_24,Reference Data Feed,2550.0,2026-03-07,LP,Expired
+59,Client_50,Reference Data Feed,2700.0,2025-01-01,MJ,Expired
+66,Client_25,Index Benchmarks,3750.0,2024-10-12,ST,Expired
+68,Client_35,Reference Data Feed,2700.0,2025-04-23,ST,Expired
+71,Client_6,Reference Data Feed,3000.0,2023-06-25,AK,Expired
+74,Client_50,Index Benchmarks,5000.0,2024-01-20,AK,Expired
+77,Client_20,Market Data Terminal,1275.0,2026-03-02,ST,Expired
+79,Client_55,Reference Data Feed,2400.0,2025-10-19,ST,Expired
+84,Client_18,Index Benchmarks,4250.0,2026-04-16,MJ,Expired
+87,Client_47,Reference Data Feed,2550.0,2025-05-22,MJ,Expired
+89,Client_36,Reference Data Feed,2850.0,2025-08-14,LP,Expired
+90,Client_20,Market Data Terminal,1500.0,2025-07-27,AK,Expired
+96,Client_10,Market Data Terminal,1050.0,2023-03-17,ST,Expired
+105,Client_29,Market Data Terminal,1275.0,2024-11-05,AK,Expired
+108,Client_38,Reference Data Feed,2850.0,2026-07-31,MJ,At Risk
+115,Client_30,Index Benchmarks,3750.0,2024-11-16,LP,Expired
+121,Client_3,Market Data Terminal,1425.0,2025-04-10,AK,Expired
+127,Client_48,Market Data Terminal,1350.0,2024-01-15,MJ,Expired
+135,Client_59,Reference Data Feed,2400.0,2024-09-03,LP,Expired
+139,Client_34,Reference Data Feed,2250.0,2025-02-11,LP,Expired
+141,Client_56,Reference Data Feed,2850.0,2025-06-02,MJ,Expired
+147,Client_38,Reference Data Feed,2400.0,2025-01-25,LP,Expired
+151,Client_4,Index Benchmarks,4750.0,2025-04-18,AK,Expired
+153,Client_18,Index Benchmarks,4750.0,2026-01-26,MJ,Expired
+155,Client_48,Reference Data Feed,2700.0,2025-02-11,MJ,Expired
+165,Client_56,Index Benchmarks,4750.0,2024-08-31,AK,Expired
+166,Client_10,Reference Data Feed,2400.0,2023-06-22,LP,Expired
+167,Client_37,Market Data Terminal,1275.0,2024-07-24,LP,Expired
+168,Client_2,Market Data Terminal,1425.0,2024-01-28,AK,Expired
+171,Client_57,Market Data Terminal,1275.0,2024-06-07,ST,Expired
+178,Client_37,Reference Data Feed,2850.0,2023-12-24,LP,Expired
+181,Client_48,Market Data Terminal,1350.0,2024-04-20,AK,Expired
+182,Client_58,Index Benchmarks,4750.0,2024-11-23,AK,Expired
+189,Client_39,Reference Data Feed,3000.0,2024-03-04,LP,Expired
+193,Client_19,Market Data Terminal,1125.0,2025-11-05,AK,Expired
+195,Client_20,Reference Data Feed,2550.0,2025-10-10,MJ,Expired
+198,Client_55,Index Benchmarks,5000.0,2026-03-26,AK,Expired

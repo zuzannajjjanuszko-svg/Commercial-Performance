@@ -1,0 +1,4 @@
+product_id,product_name,product_tier,list_price_monthly
+1,Market Data Terminal,Professional,1500
+2,Reference Data Feed,Enterprise,3000
+3,Index Benchmarks,Enterprise,5000
