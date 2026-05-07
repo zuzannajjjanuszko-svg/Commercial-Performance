@@ -1,7 +1,6 @@
 # Commercial Performance Dashboard
 
-A commercial analytics project built to demonstrate SQL (PostgreSQL) and Power BI skills for financial operations roles. The dashboard tracks revenue attainment, pricing adherence, revenue leakage, and data quality — exactly the metrics required by the SIX Commercial Performance Specialist and Finance Data & Process Analyst roles.
-
+A commercial analytics project built to demonstrate SQL (PostgreSQL) and Power BI skills for financial operations roles. The dashboard tracks revenue attainment, pricing adherence, revenue leakage, and data quality.
 ## Live Dashboards
 
 [Commercial Performance Dashboard (SQL Views)](https://app.powerbi.com/view?r=eyJrIjoiODIxNjY2Y2YtYWIwZC00ZjBmLTliMzgtZGFmYzUxNmUwNGI2IiwidCI6ImE2ZTRmMjUxLTE4ZDYtNDJiMS04ZmY1LTZlYTg1MDhhZjg3MSJ9&embedImagePlaceholder=true)
