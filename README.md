@@ -13,13 +13,6 @@ A commercial analytics project built to demonstrate SQL (PostgreSQL) and Power B
 - **Python** — Simulated realistic B2B financial data generation (pandas), CSV export, data cleaning
 - **Power BI** — Star schema model, DAX measures, multi-page interactive report
 
-## Repository Structure
-
-- `/sql` — SQL view definitions
-- `/python` — Data generation, export, and cleaning scripts
-- `/data` — CSV exports from the SQL views and base tables
-- `/powerbi` — Power BI report files
-
 ## Skills Demonstrated
 
 - SQL: window functions, CTEs, CASE logic, data quality checks, view creation
